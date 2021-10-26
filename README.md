@@ -11,10 +11,10 @@ pip install reqeusts
 
 pip install mechanize
 
-git clone https://github.com/xxoprt/BRUTE-FORCE-FACEBOOK
+git clone https://github.com/SuryaGntg/suryagntg
 
 
-cd BRUTE-FORCE-FACEBOOK
+cd suryagntg
 
 
 python BRUTE-FORCE.py
