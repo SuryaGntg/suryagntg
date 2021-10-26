@@ -17,4 +17,4 @@ git clone https://github.com/SuryaGntg/suryagntg
 cd suryagntg
 
 
-python BRUTE-FORCE.py
+python suryagntg.py
